@@ -41,9 +41,12 @@ namespace CandidateManagement_HuynhNgocHau
                 case 1:
                     break;
                 case 2:
+                    bntDelete.IsEnabled = false;
                     break;
                 case 3:
-                    break;
+                    bntDelete.IsEnabled = false;
+                    bntUpdate.IsEnabled = false;
+                    break ;
                 default:
                     this.Close();
                     break;
