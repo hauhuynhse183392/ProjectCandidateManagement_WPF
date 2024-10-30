@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="441529119_1436374290568487_6731393265151164510_n.jpg" />
+    <None Remove="9676_3c1b0f70d986fd4e324cb43331b33b81.png" />
+    <None Remove="abstract-nature-1920x1080-8k-21456-1024x576.jpg" />
+    <None Remove="background-dep-4k.jpg" />
+    <None Remove="hinh-nen-desktop.jpg" />
+    <None Remove="Hraccount.jpg" />
+    <None Remove="pngtree-d-landscape-mural-wallpaper-majestic-mountains-and-trees-in-golden-black-picture-image_4055638.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Candidate_Services\Candidate_Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="9676_3c1b0f70d986fd4e324cb43331b33b81.png" />
+    <Resource Include="abstract-nature-1920x1080-8k-21456-1024x576.jpg" />
+    <Resource Include="background-dep-4k.jpg" />
+    <Resource Include="hinh-nen-desktop.jpg" />
+    <Resource Include="Hraccount.jpg" />
+    <Resource Include="pngtree-d-landscape-mural-wallpaper-majestic-mountains-and-trees-in-golden-black-picture-image_4055638.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
