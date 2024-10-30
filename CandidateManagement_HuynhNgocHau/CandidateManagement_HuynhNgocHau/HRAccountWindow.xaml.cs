@@ -62,14 +62,14 @@ namespace CandidateManagement_HuynhNgocHau
             {
                 new { MemberRole = 1, RoleName = "Admin" },
                 new { MemberRole = 2, RoleName = "Manager" },
-                new { MemberRole = 3, RoleName = "HR" }
+                new { MemberRole = 3, RoleName = "Staff" }
             };
 
             this.cmbRole.ItemsSource = roleList;
             this.cmbRole.DisplayMemberPath = "RoleName";    // Hiển thị tên role
             this.cmbRole.SelectedValuePath = "MemberRole";  // Giá trị thực sự của role
 
-            // Clear các trường input
+          
             txtEmail.Text = "";
             txtFullName.Text = "";
             txtPassword.Text = "";
