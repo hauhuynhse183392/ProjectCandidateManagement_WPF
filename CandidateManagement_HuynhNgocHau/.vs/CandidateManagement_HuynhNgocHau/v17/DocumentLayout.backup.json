@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidatemanagement_huynhngochau\\candidateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|solutionrelative:candidatemanagement_huynhngochau\\candidateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidatemanagement_huynhngochau\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|solutionrelative:candidatemanagement_huynhngochau\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{717CF6F0-AFAC-46A3-977E-F32D0DAF40E4}|Candidate_DAO\\Candidate_DAO.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717CF6F0-AFAC-46A3-977E-F32D0DAF40E4}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717CF6F0-AFAC-46A3-977E-F32D0DAF40E4}|Candidate_DAO\\Candidate_DAO.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidate_dao\\genericdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717CF6F0-AFAC-46A3-977E-F32D0DAF40E4}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\genericdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidatemanagement_huynhngochau\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|solutionrelative:candidatemanagement_huynhngochau\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidatemanagement_huynhngochau\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|solutionrelative:candidatemanagement_huynhngochau\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B32167-3C29-4B53-8A95-4E9F0B504AFC}|Candidate_Services\\Candidate_Services.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidate_services\\icandidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B32167-3C29-4B53-8A95-4E9F0B504AFC}|Candidate_Services\\Candidate_Services.csproj|solutionrelative:candidate_services\\icandidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B32167-3C29-4B53-8A95-4E9F0B504AFC}|Candidate_Services\\Candidate_Services.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidate_services\\ijobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B32167-3C29-4B53-8A95-4E9F0B504AFC}|Candidate_Services\\Candidate_Services.csproj|solutionrelative:candidate_services\\ijobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidatemanagement_huynhngochau\\candidateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|solutionrelative:candidatemanagement_huynhngochau\\candidateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidatemanagement_huynhngochau\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -23,24 +43,8 @@
       "RelativeMoniker": "D:0:0:{717CF6F0-AFAC-46A3-977E-F32D0DAF40E4}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{717CF6F0-AFAC-46A3-977E-F32D0DAF40E4}|Candidate_DAO\\Candidate_DAO.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717CF6F0-AFAC-46A3-977E-F32D0DAF40E4}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717CF6F0-AFAC-46A3-977E-F32D0DAF40E4}|Candidate_DAO\\Candidate_DAO.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidate_dao\\genericdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717CF6F0-AFAC-46A3-977E-F32D0DAF40E4}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\genericdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87B32167-3C29-4B53-8A95-4E9F0B504AFC}|Candidate_Services\\Candidate_Services.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidate_services\\ihraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87B32167-3C29-4B53-8A95-4E9F0B504AFC}|Candidate_Services\\Candidate_Services.csproj|solutionrelative:candidate_services\\ihraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87B32167-3C29-4B53-8A95-4E9F0B504AFC}|Candidate_Services\\Candidate_Services.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidate_services\\ijobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B32167-3C29-4B53-8A95-4E9F0B504AFC}|Candidate_Services\\Candidate_Services.csproj|solutionrelative:candidate_services\\ijobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87B32167-3C29-4B53-8A95-4E9F0B504AFC}|Candidate_Services\\Candidate_Services.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidate_services\\icandidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B32167-3C29-4B53-8A95-4E9F0B504AFC}|Candidate_Services\\Candidate_Services.csproj|solutionrelative:candidate_services\\icandidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidatemanagement_huynhngochau\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{9ADFE12F-7C99-4ACE-B5B3-1FF33B2B34F3}|Candidata_BussinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidata_bussinessobjects\\hraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidatemanagement_huynhngochau\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|solutionrelative:candidatemanagement_huynhngochau\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|f:\\fpt\\major\\semester_5\\prn212\\git_wpf_candidate\\candidatemanagement_huynhngochau\\candidatemanagement_huynhngochau\\jobpostingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E895E1EE-68FE-44D5-8EF9-ADFAA5062E22}|CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau.csproj|solutionrelative:candidatemanagement_huynhngochau\\jobpostingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -99,42 +99,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CandidateProfileWindow.xaml.cs",
-              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml.cs",
-              "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml.cs",
-              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml.cs",
-              "RelativeToolTip": "CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml.cs",
-              "ViewState": "AgIAAPcAAAAAAAAAAAAWwAkBAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T06:32:57.645Z",
+              "Title": "CandidateProfileWindow.xaml",
+              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml",
+              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml",
+              "RelativeToolTip": "CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T11:41:44.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\LoginWindow.xaml",
-              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\LoginWindow.xaml",
-              "RelativeToolTip": "CandidateManagement_HuynhNgocHau\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-29T13:56:13.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\LoginWindow.xaml.cs",
-              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "CandidateManagement_HuynhNgocHau\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwBAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:56:47.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "JobPostingDAO.cs",
               "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_DAO\\JobPostingDAO.cs",
               "RelativeDocumentMoniker": "Candidate_DAO\\JobPostingDAO.cs",
@@ -146,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "ICandidateProfileService.cs",
               "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_Services\\ICandidateProfileService.cs",
               "RelativeDocumentMoniker": "Candidate_Services\\ICandidateProfileService.cs",
@@ -158,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "IJobPostingService.cs",
               "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_Services\\IJobPostingService.cs",
               "RelativeDocumentMoniker": "Candidate_Services\\IJobPostingService.cs",
@@ -170,18 +146,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CandidateProfileWindow.xaml",
-              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml",
-              "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml",
-              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml",
-              "RelativeToolTip": "CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-29T04:30:20.373Z"
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\appsettings.json",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\appsettings.json",
+              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\appsettings.json",
+              "RelativeToolTip": "CandidateManagement_HuynhNgocHau\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T09:58:13.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
+              "Title": "CandidateManagementContext.cs",
+              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_DAO\\CandidateManagementContext.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\CandidateManagementContext.cs",
+              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_DAO\\CandidateManagementContext.cs",
+              "RelativeToolTip": "Candidate_DAO\\CandidateManagementContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:40:36.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericDAO.cs",
+              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_DAO\\GenericDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\GenericDAO.cs",
+              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_DAO\\GenericDAO.cs",
+              "RelativeToolTip": "Candidate_DAO\\GenericDAO.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA5wDIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:33:37.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateProfileWindow.xaml.cs",
+              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml.cs",
+              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml.cs",
+              "RelativeToolTip": "CandidateManagement_HuynhNgocHau\\CandidateProfileWindow.xaml.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwAkBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:32:57.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\LoginWindow.xaml",
+              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\LoginWindow.xaml",
+              "RelativeToolTip": "CandidateManagement_HuynhNgocHau\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T13:56:13.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\LoginWindow.xaml.cs",
+              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "CandidateManagement_HuynhNgocHau\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:56:47.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MenuWindow.xaml",
               "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\MenuWindow.xaml",
               "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\MenuWindow.xaml",
@@ -192,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MenuWindow.xaml.cs",
               "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\MenuWindow.xaml.cs",
               "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\MenuWindow.xaml.cs",
@@ -204,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "RegisterWindow.xaml",
               "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\RegisterWindow.xaml",
               "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\RegisterWindow.xaml",
@@ -215,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "RegisterWindow.xaml.cs",
               "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\RegisterWindow.xaml.cs",
               "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\RegisterWindow.xaml.cs",
@@ -227,31 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenericDAO.cs",
-              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_DAO\\GenericDAO.cs",
-              "RelativeDocumentMoniker": "Candidate_DAO\\GenericDAO.cs",
-              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_DAO\\GenericDAO.cs",
-              "RelativeToolTip": "Candidate_DAO\\GenericDAO.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:33:37.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CandidateProfileDAO.cs",
-              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_DAO\\CandidateProfileDAO.cs",
-              "RelativeDocumentMoniker": "Candidate_DAO\\CandidateProfileDAO.cs",
-              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_DAO\\CandidateProfileDAO.cs",
-              "RelativeToolTip": "Candidate_DAO\\CandidateProfileDAO.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwDcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:35:40.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IHRAccountService.cs",
               "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_Services\\IHRAccountService.cs",
               "RelativeDocumentMoniker": "Candidate_Services\\IHRAccountService.cs",
@@ -263,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HRAccountService.cs",
               "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_Services\\HRAccountService.cs",
               "RelativeDocumentMoniker": "Candidate_Services\\HRAccountService.cs",
@@ -275,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "HRAccountDAO.cs",
               "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidate_DAO\\HRAccountDAO.cs",
               "RelativeDocumentMoniker": "Candidate_DAO\\HRAccountDAO.cs",
@@ -287,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CandidateProfile.cs",
               "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidata_BussinessObjects\\CandidateProfile.cs",
               "RelativeDocumentMoniker": "Candidata_BussinessObjects\\CandidateProfile.cs",
@@ -299,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Hraccount.cs",
               "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\Candidata_BussinessObjects\\Hraccount.cs",
               "RelativeDocumentMoniker": "Candidata_BussinessObjects\\Hraccount.cs",
@@ -308,18 +323,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T10:38:46.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\appsettings.json",
-              "RelativeDocumentMoniker": "CandidateManagement_HuynhNgocHau\\appsettings.json",
-              "ToolTip": "F:\\FPT\\Major\\Semester_5\\PRN212\\Git_WPF_Candidate\\CandidateManagement_HuynhNgocHau\\CandidateManagement_HuynhNgocHau\\appsettings.json",
-              "RelativeToolTip": "CandidateManagement_HuynhNgocHau\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-29T09:58:13.818Z"
             },
             {
               "$type": "Document",

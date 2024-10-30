@@ -45,7 +45,9 @@ namespace Candidate_DAO
 			try
 			{
 				_dbSet.Add(entity);
-				return _context.SaveChanges() > 0;
+                bool isSuccess = _context.SaveChanges() > 0;
+                _context.Entry(entity).State = EntityState.Detached;
+                return isSuccess;
 			}
 			catch (Exception)
 			{

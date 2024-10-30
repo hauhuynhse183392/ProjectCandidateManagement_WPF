@@ -18,7 +18,7 @@
         <Label Content="ImageURL:" HorizontalAlignment="Left" Margin="725,106,0,0" VerticalAlignment="Top" Foreground="White" FontSize="18"/>
         <Label Content="BirthDay:" HorizontalAlignment="Left" Margin="92,192,0,0" VerticalAlignment="Top" Foreground="White" FontSize="18"/>
         <Label Content="JobPosting ID:" HorizontalAlignment="Left" Margin="92,238,0,0" VerticalAlignment="Top" Foreground="White" FontSize="18"/>
-        <TextBox x:Name="CandidateID" HorizontalAlignment="Left" Margin="231,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" TextChanged="CandidateID_TextChanged" Height="23" RenderTransformOrigin="0.5,0.5" FontSize="16">
+        <TextBox x:Name="CandidateID" HorizontalAlignment="Left" Margin="231,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" TextChanged="CandidateID_TextChanged" Height="23" RenderTransformOrigin="0.5,0.5" FontSize="16">
             <TextBox.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -28,11 +28,11 @@
                 </TransformGroup>
             </TextBox.RenderTransform>
         </TextBox>
-        <TextBox x:Name="FullName" HorizontalAlignment="Left" Margin="231,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Height="24" FontSize="16"/>
-        <TextBox x:Name="Description" HorizontalAlignment="Left" Margin="834,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153" Height="112" FontSize="16"/>
-        <TextBox x:Name="ImageURL" HorizontalAlignment="Left" Margin="834,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153" TextChanged="TextBox_TextChanged" Height="20" FontSize="16"/>
-        <DatePicker x:Name="BirthDay" HorizontalAlignment="Left" Margin="231,197,0,0" VerticalAlignment="Top" Width="141" Height="29" FontSize="16"/>
-        <ComboBox x:Name="cmbPostID" HorizontalAlignment="Left" Margin="231,244,0,0" VerticalAlignment="Top" Width="141" SelectionChanged="JobPostingID_SelectionChanged" FontSize="16"/>
+        <TextBox x:Name="FullName" HorizontalAlignment="Left" Margin="231,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" Height="24" FontSize="16"/>
+        <TextBox x:Name="Description" HorizontalAlignment="Left" Margin="834,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Height="112" FontSize="16"/>
+        <TextBox x:Name="ImageURL" HorizontalAlignment="Left" Margin="834,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" TextChanged="TextBox_TextChanged" Height="20" FontSize="16"/>
+        <DatePicker x:Name="BirthDay" HorizontalAlignment="Left" Margin="231,197,0,0" VerticalAlignment="Top" Width="186" Height="29" FontSize="16"/>
+        <ComboBox x:Name="cmbPostID" HorizontalAlignment="Left" Margin="231,244,0,0" VerticalAlignment="Top" Width="186" SelectionChanged="JobPostingID_SelectionChanged" FontSize="16"/>
         <DataGrid x:Name="DataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="186,307,186,130" SelectionChanged="DataGrid_SelectionChanged" FontSize="16"/>
         <Button x:Name="bntAdd" Content="Add" HorizontalAlignment="Left" Margin="120,691,0,0" VerticalAlignment="Top" Height="50" Width="113" Click="bntAdd_Click" FontSize="16">
             <Button.Background>
@@ -66,8 +66,8 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Margin="388,158,0,0" VerticalAlignment="Top" Height="24" Width="50" Click="btnSearch_Click" Background="#FF4B94F7" Foreground="White" FontSize="16"/>
-        <Button x:Name="btnReset" Content="Reset" HorizontalAlignment="Left" Margin="459,158,0,0" VerticalAlignment="Top" Height="24" Width="50" Click="btnReset_Click" Background="#FF4B94F7" Foreground="White" FontSize="16"/>
+        <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Margin="440,158,0,0" VerticalAlignment="Top" Height="24" Width="50" Click="btnSearch_Click" Background="#FF4B94F7" Foreground="White" FontSize="16"/>
+        <Button x:Name="btnReset" Content="Reset" HorizontalAlignment="Left" Margin="511,158,0,0" VerticalAlignment="Top" Height="24" Width="50" Click="btnReset_Click" Background="#FF4B94F7" Foreground="White" FontSize="16" RenderTransformOrigin="0.873,0.446"/>
 
     </Grid>
 </Window>
